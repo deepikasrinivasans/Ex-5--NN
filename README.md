@@ -82,7 +82,7 @@ def end_to_end (X1, X2, ys, mu1, mu2):
 
 <H3>OUTPUT:</H3>
 
-![image](https://github.com/DHARINIPV/Ex-5--NN/assets/119400845/519ca968-a6ba-46d3-a85c-1326b156d498)
+![1nn](https://github.com/deepikasrinivasans/Ex-5--NN/assets/119393935/be22f9cd-b9b6-4f5c-8d5a-54602ee707c0)
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
